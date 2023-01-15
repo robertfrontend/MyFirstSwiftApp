@@ -12,7 +12,8 @@ struct MyfirstappApp: App {
     var body: some Scene {
         WindowGroup {
 //            ContentView()
-            Buttoncomponent()
+//            Buttoncomponent()
+            TextFieldComponent()
         }
     }
 }
