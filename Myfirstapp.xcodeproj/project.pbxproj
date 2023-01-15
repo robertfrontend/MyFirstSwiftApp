@@ -14,6 +14,7 @@
 		1F1C927C29739B580034863F /* MyfirstappTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C927B29739B580034863F /* MyfirstappTests.swift */; };
 		1F1C928629739B580034863F /* MyfirstappUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C928529739B580034863F /* MyfirstappUITests.swift */; };
 		1F1C928829739B580034863F /* MyfirstappUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C928729739B580034863F /* MyfirstappUITestsLaunchTests.swift */; };
+		1F1C9299297434D30034863F /* ImageSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C9298297434D30034863F /* ImageSwift.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1F1C928129739B580034863F /* MyfirstappUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyfirstappUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1C928529739B580034863F /* MyfirstappUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyfirstappUITests.swift; sourceTree = "<group>"; };
 		1F1C928729739B580034863F /* MyfirstappUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyfirstappUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1F1C9298297434D30034863F /* ImageSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwift.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				1F1C926C29739B570034863F /* ContentView.swift */,
 				1F1C926E29739B580034863F /* Assets.xcassets */,
 				1F1C927029739B580034863F /* Preview Content */,
+				1F1C9298297434D30034863F /* ImageSwift.swift */,
 			);
 			path = Myfirstapp;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				1F1C926D29739B570034863F /* ContentView.swift in Sources */,
 				1F1C926B29739B570034863F /* MyfirstappApp.swift in Sources */,
+				1F1C9299297434D30034863F /* ImageSwift.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

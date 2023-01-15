@@ -36,7 +36,18 @@ struct ContentView: View {
                             .foregroundColor(.gray)
                     }
                 }
+                
+                // Swift Image
+                VStack(alignment: .leading, spacing: 0.0) {
+                    Text("Swift Image")
+                        .font(.title)
+                        .bold()
+                    Image("youtube")
+
+                }
+                .padding(.top, 80)
             }
+            
             Text("Suscribe a Robertfrontend")
                 .font(.title)
                 .fontWeight(.bold)
@@ -44,8 +55,8 @@ struct ContentView: View {
                 .underline()
                 .background(.black)
                 .rotationEffect(.degrees(-20))
-                
         }
+   
     }
 }
 
