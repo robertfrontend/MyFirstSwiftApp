@@ -16,6 +16,7 @@
 		1F0EFFCA2974520D00F5C7DE /* TextFieldComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFC92974520D00F5C7DE /* TextFieldComponent.swift */; };
 		1F0EFFCC2974822F00F5C7DE /* CreateUser.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFCB2974822F00F5C7DE /* CreateUser.swift */; };
 		1F0EFFCE2974859700F5C7DE /* DataPickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFCD2974859700F5C7DE /* DataPickerComponent.swift */; };
+		1F0EFFD02974BE8900F5C7DE /* ColorPickerComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFCF2974BE8900F5C7DE /* ColorPickerComponent.swift */; };
 		1F1C926B29739B570034863F /* MyfirstappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C926A29739B570034863F /* MyfirstappApp.swift */; };
 		1F1C926D29739B570034863F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C926C29739B570034863F /* ContentView.swift */; };
 		1F1C926F29739B580034863F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F1C926E29739B580034863F /* Assets.xcassets */; };
@@ -53,6 +54,7 @@
 		1F0EFFC92974520D00F5C7DE /* TextFieldComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldComponent.swift; sourceTree = "<group>"; };
 		1F0EFFCB2974822F00F5C7DE /* CreateUser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateUser.swift; sourceTree = "<group>"; };
 		1F0EFFCD2974859700F5C7DE /* DataPickerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataPickerComponent.swift; sourceTree = "<group>"; };
+		1F0EFFCF2974BE8900F5C7DE /* ColorPickerComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorPickerComponent.swift; sourceTree = "<group>"; };
 		1F1C926729739B570034863F /* Myfirstapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Myfirstapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1C926A29739B570034863F /* MyfirstappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyfirstappApp.swift; sourceTree = "<group>"; };
 		1F1C926C29739B570034863F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -136,6 +138,7 @@
 				1F1C926E29739B580034863F /* Assets.xcassets */,
 				1F1C927029739B580034863F /* Preview Content */,
 				1F0EFFCD2974859700F5C7DE /* DataPickerComponent.swift */,
+				1F0EFFCF2974BE8900F5C7DE /* ColorPickerComponent.swift */,
 			);
 			path = Myfirstapp;
 			sourceTree = "<group>";
@@ -298,6 +301,7 @@
 				1F1C926D29739B570034863F /* ContentView.swift in Sources */,
 				1F0EFFB929743B3D00F5C7DE /* Symbols.swift in Sources */,
 				1F0EFFC129743EA700F5C7DE /* LabelCur.swift in Sources */,
+				1F0EFFD02974BE8900F5C7DE /* ColorPickerComponent.swift in Sources */,
 				1F0EFFCA2974520D00F5C7DE /* TextFieldComponent.swift in Sources */,
 				1F1C926B29739B570034863F /* MyfirstappApp.swift in Sources */,
 				1F0EFFC829744E1F00F5C7DE /* AlertSuscribe.swift in Sources */,
