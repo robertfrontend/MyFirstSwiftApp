@@ -9,11 +9,43 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-            Text("Hello, world!")
-                .font(.largeTitle)
-                .bold()
-                .padding()
-
+        ZStack {
+            VStack(alignment: .leading, spacing: 8) {
+                Text("Siguiendo")
+                        .font(.largeTitle)
+                        .foregroundColor(.black)
+                        .bold()
+                Text("CANALES RECOMENDADOS")
+                    .foregroundColor(.gray)
+                HStack {
+                    Rectangle()
+                        .foregroundColor(.blue)
+                        .frame(width: 118, height: 68)
+                    VStack(alignment: .leading) {
+                        HStack {
+                            Circle()
+                                .foregroundColor(.blue)
+                                .frame(width: 10.0, height: 10.0)
+                                
+                            Text("Username")
+                                .font(.headline)
+                        }
+                        Text("Streaming with programming")
+                            .foregroundColor(.gray)
+                        Text("Only speak")
+                            .foregroundColor(.gray)
+                    }
+                }
+            }
+            Text("Suscribe a Robertfrontend")
+                .font(.title)
+                .fontWeight(.bold)
+                .foregroundColor(.red)
+                .underline()
+                .background(.black)
+                .rotationEffect(.degrees(-20))
+                
+        }
     }
 }
 
