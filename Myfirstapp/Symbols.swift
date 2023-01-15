@@ -10,11 +10,11 @@ import SwiftUI
 struct Symbols: View {
     var body: some View {
         Image(systemName: "moon.circle.fill")
-            .renderingmode(.original)
+
             .resizable()
             .scaledToFit()
             .frame(width: 200)
-//            .foregroundColor(.green)
+            .foregroundColor(.green)
         
 //        Text("Sigueme en Twitter")
 //            .underline()
