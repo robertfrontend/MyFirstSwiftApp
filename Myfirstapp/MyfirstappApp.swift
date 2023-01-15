@@ -13,7 +13,8 @@ struct MyfirstappApp: App {
         WindowGroup {
 //            ContentView()
 //            Buttoncomponent()
-            TextFieldComponent()
+//            TextFieldComponent()
+            CreateUser()
         }
     }
 }
