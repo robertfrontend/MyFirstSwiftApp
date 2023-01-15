@@ -14,7 +14,8 @@ struct MyfirstappApp: App {
 //            ContentView()
 //            Buttoncomponent()
 //            TextFieldComponent()
-            CreateUser()
+//            CreateUser()
+            LinkComponent()
         }
     }
 }
