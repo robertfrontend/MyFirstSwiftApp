@@ -10,7 +10,6 @@ import SwiftUI
 struct Symbols: View {
     var body: some View {
         Image(systemName: "moon.circle.fill")
-
             .resizable()
             .scaledToFit()
             .frame(width: 200)

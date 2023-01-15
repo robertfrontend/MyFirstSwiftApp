@@ -36,6 +36,7 @@ struct Buttoncomponent: View {
                         .font(.system(size: 70, weight: .bold))
                     )
             })
+            AlertSuscribe()
         }
     }
 }

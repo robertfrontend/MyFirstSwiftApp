@@ -12,6 +12,7 @@
 		1F0EFFC129743EA700F5C7DE /* LabelCur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFC029743EA700F5C7DE /* LabelCur.swift */; };
 		1F0EFFC329743FF900F5C7DE /* TextComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFC229743FF900F5C7DE /* TextComponent.swift */; };
 		1F0EFFC52974449300F5C7DE /* Buttoncomponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFC42974449300F5C7DE /* Buttoncomponent.swift */; };
+		1F0EFFC829744E1F00F5C7DE /* AlertSuscribe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F0EFFC729744E1F00F5C7DE /* AlertSuscribe.swift */; };
 		1F1C926B29739B570034863F /* MyfirstappApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C926A29739B570034863F /* MyfirstappApp.swift */; };
 		1F1C926D29739B570034863F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C926C29739B570034863F /* ContentView.swift */; };
 		1F1C926F29739B580034863F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1F1C926E29739B580034863F /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 		1F0EFFC029743EA700F5C7DE /* LabelCur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelCur.swift; sourceTree = "<group>"; };
 		1F0EFFC229743FF900F5C7DE /* TextComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextComponent.swift; sourceTree = "<group>"; };
 		1F0EFFC42974449300F5C7DE /* Buttoncomponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Buttoncomponent.swift; sourceTree = "<group>"; };
+		1F0EFFC729744E1F00F5C7DE /* AlertSuscribe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertSuscribe.swift; sourceTree = "<group>"; };
 		1F1C926729739B570034863F /* Myfirstapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Myfirstapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F1C926A29739B570034863F /* MyfirstappApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyfirstappApp.swift; sourceTree = "<group>"; };
 		1F1C926C29739B570034863F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -83,6 +85,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F0EFFC629744E0000F5C7DE /* Challenges */ = {
+			isa = PBXGroup;
+			children = (
+				1F0EFFC729744E1F00F5C7DE /* AlertSuscribe.swift */,
+			);
+			path = Challenges;
+			sourceTree = "<group>";
+		};
 		1F1C925E29739B570034863F = {
 			isa = PBXGroup;
 			children = (
@@ -106,6 +116,7 @@
 		1F1C926929739B570034863F /* Myfirstapp */ = {
 			isa = PBXGroup;
 			children = (
+				1F0EFFC629744E0000F5C7DE /* Challenges */,
 				1F1C926A29739B570034863F /* MyfirstappApp.swift */,
 				1F1C926C29739B570034863F /* ContentView.swift */,
 				1F1C9298297434D30034863F /* ImageSwift.swift */,
@@ -279,6 +290,7 @@
 				1F0EFFB929743B3D00F5C7DE /* Symbols.swift in Sources */,
 				1F0EFFC129743EA700F5C7DE /* LabelCur.swift in Sources */,
 				1F1C926B29739B570034863F /* MyfirstappApp.swift in Sources */,
+				1F0EFFC829744E1F00F5C7DE /* AlertSuscribe.swift in Sources */,
 				1F1C9299297434D30034863F /* ImageSwift.swift in Sources */,
 				1F0EFFC329743FF900F5C7DE /* TextComponent.swift in Sources */,
 				1F0EFFBF29743E0C00F5C7DE /* Estado.swift in Sources */,
