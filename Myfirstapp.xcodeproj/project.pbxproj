@@ -29,6 +29,7 @@
 		1F1C9299297434D30034863F /* ImageSwift.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F1C9298297434D30034863F /* ImageSwift.swift */; };
 		1F8FEF61297C529C006CEAAF /* ToggleComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8FEF60297C529C006CEAAF /* ToggleComponent.swift */; };
 		1F8FEF63297C5417006CEAAF /* StepperComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8FEF62297C5417006CEAAF /* StepperComponent.swift */; };
+		1F8FEF65297C5747006CEAAF /* SliderComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F8FEF64297C5747006CEAAF /* SliderComponent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -74,6 +75,7 @@
 		1F1C9298297434D30034863F /* ImageSwift.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSwift.swift; sourceTree = "<group>"; };
 		1F8FEF60297C529C006CEAAF /* ToggleComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToggleComponent.swift; sourceTree = "<group>"; };
 		1F8FEF62297C5417006CEAAF /* StepperComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperComponent.swift; sourceTree = "<group>"; };
+		1F8FEF64297C5747006CEAAF /* SliderComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderComponent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,10 +149,11 @@
 				1F0EFFCD2974859700F5C7DE /* DataPickerComponent.swift */,
 				1F0EFFD12974BFEB00F5C7DE /* ProgressViewComponent.swift */,
 				1F8FEF62297C5417006CEAAF /* StepperComponent.swift */,
+				1F8FEF60297C529C006CEAAF /* ToggleComponent.swift */,
+				1F8FEF64297C5747006CEAAF /* SliderComponent.swift */,
 				1F1C927A29739B580034863F /* MyfirstappTests */,
 				1F1C926E29739B580034863F /* Assets.xcassets */,
 				1F1C927029739B580034863F /* Preview Content */,
-				1F8FEF60297C529C006CEAAF /* ToggleComponent.swift */,
 			);
 			path = Myfirstapp;
 			sourceTree = "<group>";
@@ -326,6 +329,7 @@
 				1F0EFFD42974C2F100F5C7DE /* LinkComponent.swift in Sources */,
 				1F0EFFD22974BFEB00F5C7DE /* ProgressViewComponent.swift in Sources */,
 				1F0EFFCC2974822F00F5C7DE /* CreateUser.swift in Sources */,
+				1F8FEF65297C5747006CEAAF /* SliderComponent.swift in Sources */,
 				1F0EFFCE2974859700F5C7DE /* DataPickerComponent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
